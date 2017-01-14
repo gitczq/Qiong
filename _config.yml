@@ -115,7 +115,7 @@ disqus:
 
 #################################### global configure #######################################
 
-username: gtatad
+username: gitczq
 baseurl: /Qiong
 markdown: redcarpet
 safe: false
