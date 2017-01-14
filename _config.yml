@@ -116,7 +116,7 @@ disqus:
 #################################### global configure #######################################
 
 username: gtatad
-baseurl: /StrayBirds
+baseurl: /Qiong
 markdown: redcarpet
 safe: false
 highlighter: pygments
